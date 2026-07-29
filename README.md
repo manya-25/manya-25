@@ -1,257 +1,160 @@
 <div align="center">
 
-# Hi there, I'm Manya Megharaj 👋
+# 👋 Hi, I'm Manya Megharaj
 
 ### MSc Data Science Student | Software Engineer | Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=MSc+Data+Science+Student;Software+Engineer;Machine+Learning+Enthusiast;Cloud+Computing+%7C+AWS;Building+AI+Powered+Solutions" alt="Typing SVG" />
+<p>
+Building intelligent solutions with Machine Learning, Cloud Computing, and Data Engineering.
+</p>
 
-<br>
-
+<p>
 <a href="https://manyamegharaj.in">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome">
+</a>
+
+<a href="https://www.linkedin.com/in/manya-m-8051411b2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:manyameghraj@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/manya-25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/manya-m-8051411b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:manyameghraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 Professional Snapshot
 
-## Turning Data into Intelligent Solutions 🚀
+🎓 **MSc Data Science**  
+University of Europe for Applied Sciences, Potsdam, Germany
 
-🎓 MSc Data Science Student at the University of Europe for Applied Sciences
+💼 **Former Software Engineer at Accenture**
 
-💼 Former Software Engineer at Accenture
+📍 **Berlin, Germany**
 
-🤖 Passionate about Machine Learning, Generative AI & Cloud Computing
-
-📍 Berlin, Germany
-
-</div>
+I enjoy building data-driven applications that combine software engineering, machine learning, and cloud technologies to solve real-world problems.
 
 ---
 
-# 👩‍💻 About Me
+# 🎯 Current Focus
 
-```python
-class ManyaMegharaj:
-
-    def __init__(self):
-        self.role = "MSc Data Science Student"
-        self.location = "Berlin, Germany"
-
-        self.education = {
-            "masters": "MSc Data Science @ University of Europe for Applied Sciences",
-            "bachelors": "BE Electronics & Communication Engineering"
-        }
-
-        self.experience = "3+ years at Accenture"
-
-        self.languages = [
-            "English 🇬🇧",
-            "German 🇩🇪 (B1)",
-            "Kannada 🇮🇳",
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "Cloud Computing",
-            "Data Engineering",
-            "Software Development"
-        ]
-
-    def current_focus(self):
-        return [
-            "🧠 Large Language Models (LLMs)",
-            "⚖️ Legal AI & NLP",
-            "☁️ AWS Cloud",
-            "📊 Data Analytics & Visualization",
-            "🚀 Building AI-powered Applications"
-        ]
-```
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,mysql"/>
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,pytorch"/>
-</p>
-
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman"/>
-</p>
-
-### Currently Learning
-
-- 🤖 Generative AI
+- 🤖 Machine Learning
+- ☁️ Cloud Computing (AWS)
+- 📊 Data Analytics & Visualization
 - 🧠 Large Language Models (LLMs)
-- ⚡ RAG Applications
-- 📈 Advanced Machine Learning
-- ☁️ Cloud Architecture
+- ⚡ Retrieval-Augmented Generation (RAG)
+- 🚀 AI-powered Applications
 
 ---
-# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+# 💻 Technical Skills
 
-### ☁️ AWS Three-Tier Web Application
+## Programming
 
-Designed a highly available cloud architecture using:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- EC2
-- VPC
-- RDS
-- Auto Scaling
-- Application Load Balancer
-- IAM
+## Data Science
 
-**Tech Stack**
+Pandas • NumPy • Power BI • ETL • Machine Learning
 
-`AWS` `Cloud Architecture` `EC2` `RDS`
+## Frameworks
 
-</td>
+Spring Boot • REST APIs • Hugging Face • PyTorch
 
-<td width="50%">
+## Cloud
 
-### ⚖️ Legal-BERT Contract Clause Extraction
+AWS • EC2 • VPC • RDS • IAM • Auto Scaling • Application Load Balancer
 
-Fine-tuned Legal-BERT on the CUAD dataset for legal clause classification and span extraction.
+## Tools
 
-✔ Mean F1 improved from **0.480 → 0.688**
+Git • Jira • Confluence • Postman • VS Code • SSMS
 
-✔ Mean AUPR improved from **0.582 → 0.788**
+---
 
-**Tech Stack**
+# 🌟 Featured Projects
 
-`Python` `PyTorch` `Transformers` `Legal-BERT`
+## ☁️ Cloud-Based Three-Tier Web Application
 
-</td>
-</tr>
+Designed and documented a highly available AWS architecture using EC2, RDS, VPC, IAM, Auto Scaling, and Application Load Balancer.
 
-<tr>
-<td>
+---
 
-### 🧠 Semantic Cache for LLMs
+## ⚖️ Contract Clause Extraction using Legal-BERT
 
-Built a semantic caching framework using:
+Fine-tuned Legal-BERT on the CUAD dataset for contract clause classification and span extraction.
 
-- Sentence Transformers
-- FAISS
-- Ollama Llama 3
+**Highlights**
 
-Achievements
+- Mean F1 improved from **0.480 → 0.688**
+- Mean AUPR improved from **0.582 → 0.788**
 
-- 🚀 91% fewer LLM calls
-- ⚡ 11× lower latency
+---
+
+## 🧠 Reducing Repeated LLM Calls Through Semantic Caching
+
+Built a semantic caching framework using SentenceTransformers, FAISS, and Ollama Llama 3.
+
+**Achievements**
+
+- 🚀 91% reduction in LLM calls
+- ⚡ 11× faster responses
 - 💰 91% lower estimated API cost
 
-</td>
-
-<td>
-
-### 📊 Supply Chain Analytics
-
-Built Power BI dashboards for:
-
-- Inventory
-- Shipments
-- Customer Activity
-- Product Performance
-
-Applied ABC–XYZ inventory segmentation for JIT optimization.
-
-**Tech Stack**
-
-`Python` `Power BI` `Pandas`
-
-</td>
-</tr>
-</table>
-
 ---
-# 🌱 Currently Learning
 
-- 🤖 Generative AI & LLM Applications
-- ☁️ AWS Cloud Architecture
-- 📊 Advanced Data Analytics
-- ⚡ RAG & AI Agents
-- 🧠 Machine Learning & Deep Learning
+## 📊 Supply Chain Analytics
+
+Analyzed sales, inventory, and shipment data using Python and Power BI to support inventory optimization and operational planning.
 
 ---
 
-# 🤝 Let's Connect
+# 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<a href="https://manyamegharaj.in">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manya-25&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<a href="https://www.linkedin.com/in/manya-m-8051411b2">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manya-25&layout=compact&theme=github_dark&hide_border=true"/>
 
-<a href="mailto:manyameghraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-# 📈 Profile Views
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=manya-25&style=for-the-badge&color=blue)
+<img src="https://streak-stats.demolab.com?user=manya-25&theme=github-dark-blue&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 💭 Quote I Live By
+# 📫 Let's Connect
 
-<div align="center">
+📧 **Email:** manyameghraj@gmail.com
 
-> *"The best way to predict the future is to build it."*
+💼 **LinkedIn:** https://linkedin.com/in/manya-m-8051411b2
 
-</div>
+🌐 **Portfolio:** https://manyamegharaj.in
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting! ⭐
 
-💙 If you like my work, consider following me and checking out my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+I enjoy learning, building, and solving problems with data, AI, and software engineering.
 
 </div>
