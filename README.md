@@ -43,3 +43,76 @@
 </div>
 
 ---
+
+# 👩‍💻 About Me
+
+```python
+class ManyaMegharaj:
+
+    def __init__(self):
+        self.role = "MSc Data Science Student"
+        self.location = "Berlin, Germany"
+
+        self.education = {
+            "masters": "MSc Data Science @ University of Europe for Applied Sciences",
+            "bachelors": "BE Electronics & Communication Engineering"
+        }
+
+        self.experience = "3+ years at Accenture"
+
+        self.languages = [
+            "English 🇬🇧",
+            "German 🇩🇪 (B1)",
+            "Kannada 🇮🇳",
+            "Hindi 🇮🇳"
+        ]
+
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "Cloud Computing",
+            "Data Engineering",
+            "Software Development"
+        ]
+
+    def current_focus(self):
+        return [
+            "🧠 Large Language Models (LLMs)",
+            "⚖️ Legal AI & NLP",
+            "☁️ AWS Cloud",
+            "📊 Data Analytics & Visualization",
+            "🚀 Building AI-powered Applications"
+        ]
+```
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,mysql"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,pytorch"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman"/>
+</p>
+
+### Currently Learning
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- ⚡ RAG Applications
+- 📈 Advanced Machine Learning
+- ☁️ Cloud Architecture
+
+---
