@@ -117,27 +117,6 @@ Built a semantic caching framework using SentenceTransformers, FAISS, and Ollama
 
 Analyzed sales, inventory, and shipment data using Python and Power BI to support inventory optimization and operational planning.
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manya-25&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manya-25&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=manya-25&theme=github-dark-blue&hide_border=true"/>
-
-</p>
 
 ---
 
